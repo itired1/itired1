@@ -20,7 +20,7 @@ I'm a Frontend Developer just starting my adventure in this vast world of web de
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40"/></a>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Application_programming_interface"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/applescript/applescript-original.svg" title="API" alt="API" width="40"/></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white" title="API" alt="API" /></a>
 </div>
 
 ## 📊 GitHub Stats
