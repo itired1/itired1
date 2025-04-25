@@ -3,6 +3,9 @@
 <div align = "center">
     <img src ="./profile-media/a76484ce9df4de57c222594b6de5e6f6.gif" width = "500">
 </div>
+<div align="center">
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python Logo" width="80"></a>
+</div>
 
 ## 🌟 About Me
 > *"The code is not about perfection, it's about the journey!"*  
