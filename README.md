@@ -7,13 +7,14 @@
 ## 🌟 About Me
 > *"The code is not about perfection, it's about the journey!"*  
 
-I'm a **Frontend Developer** just starting my adventure in this vast world of web development. Passionate about creating beautiful and interactive interfaces with a touch of  magic! ✨
+I'm a Frontend Developer just starting my adventure in this vast world of web development. Passionate about creating beautiful and interactive interfaces with a touch of magic! ✨ I'm also developing Telegram bots to enhance user experience and automate tasks.
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/-API-FF6B6B?style=flat-square&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itired1&show_icons=true&theme=radical&hide_border=true)](https://github.com/itired1)
